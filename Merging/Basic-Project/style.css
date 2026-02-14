@@ -2,5 +2,9 @@ body{
     background-color: bisque;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    
+
+}
+li{
+    background-color: lightblue;
+    color: brown;
 }
