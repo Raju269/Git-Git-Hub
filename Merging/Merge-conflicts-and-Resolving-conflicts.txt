@@ -1,0 +1,42 @@
+💥 5️⃣ Merge Conflicts
+
+Conflict happens when:
+
+👉 Two branches change the SAME line in SAME file.
+
+Example:
+
+Main branch:
+
+color: blue;
+
+
+Feature branch:
+
+color: red;
+
+
+Git gets confused.
+
+🧠 Conflict Looks Like This:
+<<<<<<< HEAD
+color: blue;
+=======
+color: red;
+>>>>>>> feature
+
+
+You must manually choose which one to keep.
+
+🛠 How to Resolve Conflict
+
+1️⃣ Open file
+2️⃣ Remove conflict markers
+3️⃣ Keep correct code
+4️⃣ Save file
+5️⃣ Run:
+
+git add .
+git commit -m "Resolved merge conflict"
+
+

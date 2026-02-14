@@ -1,0 +1,55 @@
+⚡ 3️⃣ Fast-Forward Merge (Simple)
+
+Fast-forward happens when:
+
+👉 main branch has no new changes
+👉 feature branch is ahead
+
+Git just moves main pointer forward.
+
+No extra merge commit created.
+
+Example:
+
+main → A
+feature → A → B
+
+After merge:
+
+main → A → B
+
+Command:
+
+git merge feature
+
+
+It says: Fast-forward
+
+🔁 4️⃣ Recursive Merge (Normal Merge)
+
+Recursive merge happens when:
+
+👉 Both branches have different commits
+
+Example:
+
+main → A → C
+feature → A → B
+
+Now Git must combine B and C.
+
+Git creates a new merge commit.
+
+Result:
+
+main → A → C → M
+
+(M = merge commit)
+
+Git automatically combines both histories.
+
+🛠 Fast-forward vs Recursive (Difference)
+Fast Forward	Recursive
+Only one branch updated	Both branches updated
+No merge commit	Creates merge commit
+Simple	More complex

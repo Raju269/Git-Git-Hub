@@ -1,0 +1,12 @@
+🔹 2️⃣ Basic Merging
+
+Steps:
+
+git checkout main
+git merge branch-name
+
+
+Git takes changes from that branch
+and adds them to main.
+
+If no conflict → merge successful ✅
