@@ -1,0 +1,8 @@
+Basic git commands 
+git init 
+git add file name 
+git commit -m "git commit message " 
+git status check karan 
+git log 
+git push -u origin url path 
+git push 
