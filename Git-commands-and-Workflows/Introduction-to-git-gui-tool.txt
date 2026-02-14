@@ -1,0 +1,27 @@
+📌 4️⃣ Introduction to Git GUI Tool
+
+GUI means Graphical User Interface.
+
+Instead of writing commands, you use buttons.
+
+Examples:
+
+GitHub Desktop
+
+GitKraken
+
+VS Code Source Control
+
+In VS Code:
+
+Click Source Control icon
+
+Stage changes
+
+Write commit message
+
+Click Commit
+
+Click Push
+
+Simple and beginner friendly.

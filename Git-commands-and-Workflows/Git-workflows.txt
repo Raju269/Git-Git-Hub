@@ -1,0 +1,27 @@
+📌 3️⃣ Git Workflows (Simple Types)
+🔹 1. Basic Workflow (For Beginners)
+git add .
+git commit -m "message"
+git push
+
+🔹 2. Feature Branch Workflow
+
+main → stable code
+
+feature branch → develop new feature
+
+merge into main when done
+
+🔹 3. Team Workflow
+
+Pull latest code
+
+Create new branch
+
+Work
+
+Push branch
+
+Create Pull Request
+
+Merge

@@ -1,0 +1,43 @@
+📌 1️⃣ Git Commands and Their Uses
+
+Here are important Git commands:
+
+🔹 git init
+
+Start a new Git repository.
+
+🔹 git status
+
+Check current project status.
+
+🔹 git add .
+
+Add all files to staging area.
+
+🔹 git commit -m "message"
+
+Save changes permanently.
+
+🔹 git log
+
+See commit history.
+
+🔹 git branch
+
+List branches.
+
+🔹 git checkout branch-name
+
+Switch branch.
+
+🔹 git merge branch-name
+
+Merge another branch into current branch.
+
+🔹 git remote -v
+
+Check connected GitHub repository.
+
+🔹 git push
+
+Upload project to GitHub.

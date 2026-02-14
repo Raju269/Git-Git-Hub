@@ -1,0 +1,16 @@
+📌 2️⃣ Best Practices Using Git
+
+✔ Write clear commit messages
+Example:
+❌ “update”
+✅ “Added login form validation”
+
+✔ Commit small changes, not large messy code
+
+✔ Create branches for new features
+
+✔ Pull latest changes before pushing
+
+✔ Don’t upload sensitive files (.env, passwords)
+
+✔ Use .gitignore
