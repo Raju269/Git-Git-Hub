@@ -1,0 +1,27 @@
+Installing Git and GitHub (Simple Explanation)
+
+Git is a software that helps you track changes in your code.
+
+GitHub is a website where you store your code online.
+
+First, go to https://git-scm.com
+ to download Git.
+
+Click on Download for Windows (or your OS).
+
+Open the downloaded file and install it.
+
+Keep clicking Next → Next → Install (default settings are fine).
+
+After installation, open Command Prompt or VS Code terminal.
+
+Type git --version to check if Git is installed.
+
+If it shows version number, Git is installed successfully.
+
+Now go to https://github.com
+ and create an account.
+
+After login, click New Repository to create a project.
+
+Connect your project folder to GitHub using git init, git add ., and git push.

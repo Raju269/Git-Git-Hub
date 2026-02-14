@@ -1,0 +1,56 @@
+🔧 What does “Configure Git” mean?
+
+Configuring Git means:
+
+👉 Telling Git who you are
+👉 Setting your name and email
+👉 So Git knows who made the changes
+
+Without configuration, Git cannot track your identity properly.
+
+✅ Step 1: Set Your Name
+
+Open VS Code terminal or Command Prompt and type:
+
+git
+git config --global user.name "Raju Kumar"
+
+
+This tells Git:
+“I am Raju Kumar.”
+
+✅ Step 2: Set Your Email
+git config --global user.email "your_email@gmail.com"
+
+
+Use the same email that you used on GitHub.
+
+Now Git knows:
+“This work belongs to this email.”
+
+✅ Step 3: Check Configuration
+
+To see if everything is set:
+
+git config --list
+
+
+You should see your name and email.
+
+🧠 What does --global mean?
+
+--global means:
+✔ This setting works for all projects on your computer
+✔ You only need to do it once
+
+🎯 Simple Example
+
+Think like this:
+
+Git = School notebook
+
+Your name/email = Student name on notebook
+
+Commit = Homework submission
+
+If name is not written, teacher (Git) doesn’t know who did the work.

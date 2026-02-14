@@ -1,0 +1,9 @@
+What is Git?
+
+In the simplest terms, Git is a tool for tracking changes in files over time.
+
+Imagine you are writing a large report or developing a software program. As you work, you constantly save new versions. If you make a mistake later, wouldn't it be great to jump back to a perfect, earlier version? Git does this for you automatically and intelligently.
+
+What is GitHub?
+
+If Git is the powerful software you use to track your changes, GitHub is the website or cloud service where you store, share, and collaborate on those Git-tracked projects.

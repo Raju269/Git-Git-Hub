@@ -1,0 +1,55 @@
+📌 Git Add and Commit (Basic Commands)
+🔹 1️⃣ git add
+
+👉 It moves your file to the staging area
+👉 It prepares file for commit
+
+Add one file:
+git add filename
+
+Add all files:
+git add .
+
+
+Simple meaning:
+“Git, I am ready to save these changes.”
+
+🔹 2️⃣ git commit
+
+👉 It saves changes permanently in Git history
+
+Command:
+git commit -m "Your message"
+
+
+Example:
+
+git commit -m "Added login page"
+
+
+Simple meaning:
+“Git, now save this version.”
+
+🎯 Easy Understanding
+
+Think like this:
+
+git add = Select homework
+
+git commit = Submit homework
+
+🚀 Basic Workflow
+git add .
+git commit -m "Update project"
+
+🔥 Very Short Notes (For Exam)
+
+git add → Stage changes
+
+git commit → Save changes
+
+-m → Message for commit
+
+Done ✔ Easy and clear.
+
+If you want Git push also in simple form, tell me 😊

@@ -1,0 +1,77 @@
+📌 What is .gitignore ?
+
+.gitignore is a file that tells Git:
+
+👉 “Do NOT track these files.”
+
+It helps to ignore unnecessary files.
+
+🎯 Why We Use .gitignore ?
+
+Some files should not be uploaded to GitHub, like:
+
+node_modules folder
+
+Temporary files
+
+Log files
+
+Password files
+
+.env file
+
+So we write them in .gitignore.
+
+📂 Example of .gitignore File
+
+Create a file named:
+
+.gitignore
+
+
+Inside it write:
+
+node_modules/
+.env
+*.log
+
+
+Meaning:
+
+node_modules/ → Ignore this folder
+
+.env → Ignore environment file
+
+*.log → Ignore all log files
+
+🧠 Simple Meaning
+
+Git tracks everything.
+.gitignore tells Git what NOT to track.
+
+🎓 Easy Example
+
+Think like this:
+
+Git = Teacher
+Project files = Homework
+.gitignore = List of pages teacher should ignore
+
+🔥 Important Point
+
+If a file is already committed,
+adding it to .gitignore will NOT remove it.
+
+You must remove it first:
+
+git rm --cached filename
+
+🚀 Short Notes (For Exam)
+
+.gitignore is used to ignore files
+
+It prevents unwanted files from uploading
+
+Written before committing
+
+Done ✔ Simple and clear.

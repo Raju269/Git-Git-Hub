@@ -1,0 +1,48 @@
+📚 Three-Stage Architecture (Database)
+
+It has 3 levels:
+
+1️⃣ External Level (User View)
+
+👉 What the user sees
+👉 Each user sees only required data
+
+Example:
+A student sees only marks.
+A teacher sees marks + attendance.
+
+2️⃣ Conceptual Level (Logical View)
+
+👉 Full database structure
+👉 Shows tables, fields, relationships
+
+Example:
+Student table → ID, Name, Marks
+Teacher table → ID, Subject
+
+It does NOT show how data is stored physically.
+
+3️⃣ Internal Level (Physical View)
+
+👉 How data is actually stored in computer
+👉 Storage, indexing, files
+
+User does NOT see this.
+
+🎯 Easy Real-Life Example
+
+Think of it like a building:
+
+External → What visitors see
+
+Conceptual → Building design plan
+
+Internal → Bricks, pipes, wiring inside walls
+
+🔥 In One Line
+
+External = User view
+Conceptual = Database design
+Internal = Physical storage
+
+Done ✔ Simple and clear.
