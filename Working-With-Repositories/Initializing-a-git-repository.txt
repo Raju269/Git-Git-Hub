@@ -1,0 +1,18 @@
+📌 1️⃣ Initializing a Git Repository
+
+Initializing means:
+
+👉 Turning a normal folder into a Git project.
+
+Command:
+git init
+
+
+What happens?
+
+Git creates a hidden .git folder
+
+Now Git can track changes in that folder
+
+Simple meaning:
+“Start tracking this project.”

@@ -1,0 +1,16 @@
+
+📌 3️⃣ Adding Files and Committing
+After creating files:
+
+Check status:
+git status
+Add files:
+git add .
+Commit files:
+git commit -m "Initial commit"
+Meaning:
+
+git add → Select files
+
+git commit → Save changes permanently
+

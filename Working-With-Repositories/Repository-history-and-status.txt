@@ -1,0 +1,27 @@
+📌 4️⃣ Repository History and Status
+Check current status:
+git status
+
+
+It shows:
+
+Modified files
+
+Staged files
+
+Untracked files
+
+Check commit history:
+git log
+
+
+Short version:
+
+git log --oneline
+
+
+It shows:
+
+Commit ID
+
+Commit message

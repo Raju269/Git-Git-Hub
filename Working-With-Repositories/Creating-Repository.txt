@@ -1,0 +1,27 @@
+📌 2️⃣ Creating a Repository
+
+There are two types:
+
+🔹 Local Repository
+
+Created on your computer using:
+
+git init
+
+🔹 Remote Repository
+
+Created on GitHub.
+
+Steps:
+
+Go to GitHub
+
+Click New Repository
+
+Give name
+
+Click Create
+
+Then connect using:
+
+git remote add origin REPO_LINK
