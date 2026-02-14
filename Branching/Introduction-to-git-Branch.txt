@@ -1,0 +1,15 @@
+🌿 1️⃣ Introduction to Git Branch
+
+A branch in Git is like a separate copy of your project.
+
+👉 It allows you to work on new features
+👉 Without affecting the main project
+
+By default, Git has one branch called:
+
+main
+
+
+Example:
+You want to create a login page.
+Instead of changing main directly, you create a new branch.

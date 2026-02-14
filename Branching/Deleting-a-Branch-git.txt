@@ -1,0 +1,17 @@
+❌ 3️⃣ Deleting a Branch in Git
+
+After merging, branch is not needed.
+
+To delete branch:
+
+git branch -d branch-name
+
+
+Example:
+
+git branch -d feature-login
+
+
+If branch is not merged and you still want to delete:
+
+git branch -D branch-name

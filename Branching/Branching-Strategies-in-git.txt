@@ -1,0 +1,21 @@
+🌳 2️⃣ Branching Strategies in Git (Simple Idea)
+
+Branching strategy means:
+
+👉 How you organize branches in a project.
+
+Basic Strategy:
+
+main → Final stable project
+
+feature → New feature development
+
+bugfix → Fix errors
+
+Example:
+
+main → Live project
+
+feature-login → Working on login page
+
+After work is complete → merge into main.

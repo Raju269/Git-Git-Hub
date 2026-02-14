@@ -1,0 +1,18 @@
+📋 4️⃣ Git List Branches
+
+To see all branches:
+
+git branch
+
+
+Current branch will show with *
+
+Example:
+
+* main
+  feature-login
+
+
+To see remote branches:
+
+git branch -a
