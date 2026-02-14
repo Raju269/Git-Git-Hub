@@ -1,0 +1,16 @@
+📌 1️⃣ Git Submodules
+
+Submodule means:
+
+👉 Adding another Git repository inside your main project.
+
+Example:
+You have main website project
+You want to use a separate navbar project
+
+Add it like this:
+
+git submodule add REPO_LINK folder-name
+
+
+It keeps both repositories separate but connected.

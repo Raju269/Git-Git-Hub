@@ -1,0 +1,14 @@
+📌 6️⃣ Git Cherry-pick
+
+Cherry-pick means:
+
+👉 Take one specific commit from another branch
+👉 Apply it to current branch
+
+Command:
+
+git cherry-pick commit-id
+
+
+Used when:
+You want only one change, not full branch merge.

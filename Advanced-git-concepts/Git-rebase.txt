@@ -1,0 +1,15 @@
+📌 4️⃣ Git Rebase (Simple Meaning)
+
+Rebase means:
+
+👉 Move your branch to the latest version of main
+👉 Make history clean
+
+Command:
+
+git rebase main
+
+
+Difference:
+Merge → creates merge commit
+Rebase → rewrites history (clean)

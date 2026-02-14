@@ -1,0 +1,23 @@
+📌 5️⃣ Git Rebase Code Implementation Example
+Step 1
+
+Create branch:
+
+git branch feature
+git checkout feature
+
+
+Make commit.
+
+Step 2
+
+Switch to main and make another commit.
+
+Step 3
+
+Go back to feature:
+
+git rebase main
+
+
+Now feature sits on top of main.

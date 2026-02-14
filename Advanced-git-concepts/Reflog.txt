@@ -1,0 +1,14 @@
+📌 7️⃣ Git Reflog
+
+Reflog shows:
+
+👉 All movements of HEAD
+👉 Even deleted commits
+
+Command:
+
+git reflog
+
+
+Useful when:
+You accidentally deleted commit and want to recover.

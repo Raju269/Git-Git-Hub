@@ -1,0 +1,19 @@
+📌 3️⃣ Git Stash
+
+Stash means:
+
+👉 Temporarily save your changes
+👉 Without committing
+
+Command:
+
+git stash
+
+
+Restore:
+
+git stash apply
+
+
+Use when:
+You are working, but need to switch branch quickly.

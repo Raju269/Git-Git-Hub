@@ -1,0 +1,18 @@
+📌 2️⃣ Git Hooks
+
+Hooks are:
+
+👉 Scripts that run automatically before or after Git actions.
+
+Example:
+
+Run tests before commit
+
+Block commit if code has errors
+
+Hooks are stored inside:
+
+.git/hooks
+
+
+Example: pre-commit hook file.
